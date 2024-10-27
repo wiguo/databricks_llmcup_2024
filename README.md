@@ -1,6 +1,10 @@
 🚀TopQAX documentation for databricks world cup 2024 
 
-# 🏆 Project Title: **TopQAX: Streamlined AI Agent Production with LangChain, LangGraph and Databricks**
+# 🏆 **Project TopQAX: Streamlined AI Agent Production with LangChain, LangGraph and Databricks**
+<p align = "center" draggable=”false” ><img src="cover.png"
+     width="500px"
+     height="auto"/>
+</p>
 
 ---
 
@@ -49,7 +53,7 @@ Leveraging LangChain, LangGraph and Databricks, this project focuses on bringing
 ### LangGraph Orchestration
 Creates visually structured and interactive workflows.
 
-![langgraph_graph](langgraph_graph.png) 
+![langgraph_graph](graph.png) 
 
 ---
 
