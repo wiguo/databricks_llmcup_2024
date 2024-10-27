@@ -6,6 +6,10 @@
 ### 🧑‍💻 Overview
 This project demonstrates a comprehensive solution for deploying large language models (LLMs) at scale using **LangChain** and **LangGraph** on **Databricks**. The objective is to enable seamless interaction, automation, and scalability of LLMs, making them production-ready for enterprise applications.
 
+### Introduction Video 
+
+-  You can watch our video at [here](https://www.youtube.com/watch?v=cCT6A6XBoGQ)
+
 ### 📚 Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -30,16 +34,21 @@ Leveraging LangChain, LangGraph, and Databricks, this project focuses on bringin
 
 ### Architecture
 ![Architecture Diagram](architecture_diagram.png)  
+![image](mlflow_autolog.png)
 This architecture includes:
 - **LLM Component**: Powers language-based tasks.
 - **Pipeline Orchestration**: Manages workflows using LangGraph.
 - **Data Layer**: Utilizes Databricks for data storage and management.
 - **API Layer**: Exposes endpoints for external applications.
 
+### Further Improvement 
+
 ### Setup and Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
+   git clone https://github.com/wiguo/databricks_llmcup_2024.git
 
+> NOTE: If you see a warning message like this: `warning: You appear to have cloned an empty repository.` - that means you've successfully followed all the steps so far correctly!
+> 
 ### 🙏 Contributions
 Contributions, ideas, and feedback are highly encouraged! :tada:
