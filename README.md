@@ -22,7 +22,7 @@ By integrating scalable AI Agent capabilities, this solution empowers customer s
 
 ### 🎥 Project Video 
 
--  You can watch our video at [here](https://www.youtube.com/watch?v=cCT6A6XBoGQ)
+-  You can watch our video at [here](https://youtu.be/e2IhqckLLqw)
 
 ---
 
@@ -92,6 +92,7 @@ Incorporate structured human feedback at the endpoint inference to enable contin
 
 
 ### Contributions 🙏
-Contributions, ideas, and feedback are highly encouraged! 🎆
+- Created by Bhavya and Wilma 
+- Contributions, ideas, and feedback are highly encouraged! 🎆
 
 ---
